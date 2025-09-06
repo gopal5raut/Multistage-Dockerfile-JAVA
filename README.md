@@ -2,7 +2,7 @@
 Hello world Java application.
 
 
-### Devops training 
+### Devops practice 
 
 ``` testing ```
 
